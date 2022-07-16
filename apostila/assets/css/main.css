@@ -58,7 +58,8 @@ footer p {
     display: flex;
     justify-content: center;
     align-items: center;
- }
+    box-shadow: 10px 10px 15px #00000047;
+}
 
  .html {
     background-color: #FF4E1D;
