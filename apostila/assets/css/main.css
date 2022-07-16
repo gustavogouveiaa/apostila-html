@@ -1,3 +1,4 @@
+/* Home Page */
 .home-page {
     background: linear-gradient(107.56deg, #FFFFFF 0%, #000000 100%);
 }
@@ -32,7 +33,9 @@ footer p {
     color: #000000;
     margin: 10px;
  }
-
+section {
+    margin: 10px;
+}
  .subt{
     font-size: 3em;
     margin-bottom: 1em;
@@ -70,3 +73,4 @@ footer p {
  .js {
     background-color: #FFD834;
  }
+ /* Home Page Fim*/
