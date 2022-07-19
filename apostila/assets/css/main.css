@@ -61,17 +61,17 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
-    box-shadow: 10px 10px 15px #00000047, inset 10px 10px 15px #00000047;;
+    box-shadow: 10px 10px 15px #00000047;
     
 }
 .html:hover {
-   box-shadow: 10px 10px 15px #FF4E1D, inset 10px 10px 15px #FF4E1D;
+   box-shadow: 10px 10px 15px #FF4E1D, inset 10px 10px 15px #00000047;
 }
 .css:hover {
-   box-shadow: 10px 10px 15px #0174BE, inset 10px 10px 15px #0174BE;
+   box-shadow: 10px 10px 15px #0174BE, inset 10px 10px 15px #00000047;
 }
 .js:hover {
-   box-shadow: 10px 10px 15px #FFD834,  10px 10px 15px #FFD834;
+   box-shadow: 10px 10px 15px #FFD834, inset 10px 10px 15px #00000047;
 }
 
  .html {
