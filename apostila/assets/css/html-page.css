@@ -1,0 +1,15 @@
+.main-html{
+    background-color: #d1c3bf;
+  }
+  .main-html article p{
+    font-size: 2rem;
+    line-height: 3rem;
+  }
+  .h1-html{
+    font-size: 4rem;
+    border-bottom: 4px solid #eb6f4c;
+    width: 30%;
+    margin: .5rem 0 2rem 2rem;
+    font-weight: bold;
+ }
+ 
