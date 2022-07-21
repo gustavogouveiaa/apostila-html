@@ -1,15 +1,27 @@
 .main-html{
-    background-color: #d1c3bf;
+    /* background-color: #f1f1f1; */
+    margin: 0 4rem;
+    height: 800px;
   }
   .main-html article p{
-    font-size: 2rem;
+    font-size: 1.7rem;
     line-height: 3rem;
+    background-color: #f1f1f1;
+    margin-bottom: 1rem;
+  }
+  .main-html span{
+    color: #eb6f4c;
+  }
+  .main-html span:nth-child(5){
+    border-bottom: 2px solid #ff0000;
+    color: #000;
   }
   .h1-html{
     font-size: 4rem;
     border-bottom: 4px solid #eb6f4c;
-    width: 30%;
+    width: 40rem;
     margin: .5rem 0 2rem 2rem;
     font-weight: bold;
+    margin: 2rem 4rem;
  }
  
